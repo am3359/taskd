@@ -1,5 +1,4 @@
 *.pyc
-*.map
 *.dblite
 *.elf
 *.bin
@@ -14,10 +13,7 @@ build
 *.o
 *.bak
 *.dep
-*.htm
 *.lnp
-*.sct
 *.crf
 *.d
-*.lst
 *.dbgconf
